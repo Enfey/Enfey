@@ -1,5 +1,4 @@
-- I’m @Enfey
-- Currently learning vb.net and then planning to learn C# and Javascript
+# EVERYTHING ON PRIVATE ATM
 
 <!---
 Enfey/Enfey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
